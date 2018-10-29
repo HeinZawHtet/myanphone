@@ -1,0 +1,15 @@
+{
+  "name": "myanphone",
+  "version": "0.0.1",
+  "description": "Myanmar phone number info such as operator names, network type and phone number validation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "myanmar",
+    "phone"
+  ],
+  "author": "Hein",
+  "license": "MIT"
+}
